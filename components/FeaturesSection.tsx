@@ -51,16 +51,16 @@ export default function FeaturesSection() {
             className="space-y-6 order-1 lg:order-2"
           >
             <h2 className="text-4xl md:text-5xl font-bold font-montserrat text-gradient">
-              The best template for your vacation rental website
+              Built to maximize bookings and revenue
             </h2>
             
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Our platform combines powerful booking tools with conversion-optimized design to turn visitors into paying guests. Every feature is designed to reduce friction in the booking process and showcase your property's unique value.
               </p>
               
               <p>
-                Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                From dynamic pricing displays to instant availability updates, our system works 24/7 to capture bookings even while you sleep. The integrated review system builds social proof, while our SEO-optimized structure helps you rank higher in search results and attract more organic traffic.
               </p>
             </div>
 
@@ -74,7 +74,7 @@ export default function FeaturesSection() {
                 className="flex items-center space-x-3"
               >
                 <div className="w-2 h-2 bg-gold-500 rounded-full"></div>
-                <span className="text-gray-700 font-medium">Premium Amenities</span>
+                <span className="text-gray-700 font-medium">Instant Booking</span>
               </motion.div>
               
               <motion.div
@@ -85,7 +85,7 @@ export default function FeaturesSection() {
                 className="flex items-center space-x-3"
               >
                 <div className="w-2 h-2 bg-gold-500 rounded-full"></div>
-                <span className="text-gray-700 font-medium">City Views</span>
+                <span className="text-gray-700 font-medium">Mobile Optimized</span>
               </motion.div>
               
               <motion.div
@@ -96,7 +96,7 @@ export default function FeaturesSection() {
                 className="flex items-center space-x-3"
               >
                 <div className="w-2 h-2 bg-gold-500 rounded-full"></div>
-                <span className="text-gray-700 font-medium">24/7 Concierge</span>
+                <span className="text-gray-700 font-medium">SEO Ready</span>
               </motion.div>
               
               <motion.div
@@ -107,7 +107,7 @@ export default function FeaturesSection() {
                 className="flex items-center space-x-3"
               >
                 <div className="w-2 h-2 bg-gold-500 rounded-full"></div>
-                <span className="text-gray-700 font-medium">Modern Design</span>
+                <span className="text-gray-700 font-medium">Secure Payments</span>
               </motion.div>
             </div>
           </motion.div>

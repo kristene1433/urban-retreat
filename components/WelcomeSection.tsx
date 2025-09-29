@@ -22,23 +22,15 @@ export default function WelcomeSection() {
             
             <div className="space-y-4 text-gray-600 leading-relaxed">
               <p>
-                Urban Retreat is a modern vacation rental website template with full-screen hero images to impress potential guests, a light design and a top navigation menu.
+                Our modern vacation rental platform features stunning full-screen hero images that instantly capture attention and showcase your property's best angles. The clean, professional design builds trust and encourages bookings.
               </p>
               
               <p>
-                Urban Retreat is optimized for single and multi-property websites. Urban Retreat is mobile-friendly using responsive web design. Urban Retreat is a vacation rental website template by{' '}
-                <a href="#" className="text-gold-500 hover:text-gold-600 underline transition-colors duration-200">
-                  Lodgify.com
-                </a>
-                . Create your own vacation rental website{' '}
-                <a href="#" className="text-gold-500 hover:text-gold-600 underline transition-colors duration-200">
-                  here
-                </a>
-                .
+                Every element is strategically designed to maximize conversions - from our prominent "Book Now" buttons to the seamless multi-step booking process. The mobile-responsive design ensures guests can easily browse and book from any device, increasing your booking potential by up to 40%.
               </p>
               
               <p>
-                Vivamus ullamcorper eu enim dapibus interdum. Integer lorem purus, cursus eget aliquam quis, ultricies sed tortor. Vestibulum sodales ligula eget lorem elementum, non rhoncus dolor.
+                Our integrated features like real-time availability calendars, instant booking confirmations, and secure payment processing create a smooth guest experience that reduces booking abandonment and increases repeat visits.
               </p>
             </div>
           </motion.div>
